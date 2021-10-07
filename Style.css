@@ -1,0 +1,38 @@
+body{
+    background-color:lavender;
+    color:darkmagenta;
+    text-align:center;
+}
+
+h1{
+    margin: 4rem;
+}
+
+.input-label {
+    display: block;
+    font-size: 1.4rem;
+    margin: 1rem;
+    font-weight: bold;
+  }
+  
+  .input {
+    font-size: large;
+    padding: 0.5rem 1rem;
+    margin-bottom: 4rem;
+    border: 2px solid black
+  }
+  
+  #check-button {
+    padding: 0.5rem 1rem;
+    display: block;
+    margin: auto;
+    font-size:large;
+    border: 2px solid black;
+    border-radius: 0.5rem;
+    cursor:pointer;
+  }
+
+  #output{
+    margin: 2rem;
+    font-size: 1.5rem;
+  }
